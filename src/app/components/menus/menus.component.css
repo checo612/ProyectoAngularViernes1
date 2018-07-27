@@ -1,0 +1,13 @@
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orange
+}
+
+img{
+    width: 300px !important; 
+    height: 250px !important;
+}
+
+.opacity{
+    opacity: 0.95;
+}
